@@ -1,0 +1,6 @@
+﻿  Snake.cpp
+C:\Users\xalie\source\repos\Snake\Snake\Snake.cpp(97,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\xalie\source\repos\Snake\Snake\Snake.cpp(97,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\xalie\source\repos\Snake\Snake\Snake.cpp(102,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\xalie\source\repos\Snake\Snake\Snake.cpp(103,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\xalie\source\repos\Snake\x64\Debug\Snake.exe
